@@ -1,3 +1,3 @@
 # new project
- this project was created from local system.
- create by alexx.
+ this project was creat ed from local system.
+ create by Alexx.
